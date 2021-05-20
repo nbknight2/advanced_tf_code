@@ -1,0 +1,9 @@
+*.terraform
+*.pem
+*.tfvars
+*.tfstate
+*.tfstate_backup
+*.lock.info
+.terraform
+.DS_Store
+notepad
