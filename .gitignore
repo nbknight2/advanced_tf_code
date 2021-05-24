@@ -7,3 +7,7 @@
 .terraform
 .DS_Store
 notepad
+*.plan
+*.tfplan
+*.hcl
+*.backup
